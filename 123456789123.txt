@@ -1,0 +1,22 @@
+Account Number
+1002003004005
+CardNumber
+123456789123
+AccountType
+Savings
+Account Holder Name
+BavanSharma
+Account Balance
+77000.0
+PIN
+4545
+Transaction History
+2021/04/26 16:40:09  Available Balance 18000.0   Credit 10000.0
+2021/04/26 17:44:18  Available Balance 28000.0   Credit 10000.0
+2021/04/26 17:44:36  Available Balance 38000.0   Credit 15000.0
+2021/04/26 17:44:53  Available Balance 53000.0   Credit 1500.0
+2021/04/26 17:45:47  Available Balance 54500.0   Debit 4500.0
+2021/04/26 17:48:07  Available Balance 50000.0   Debit 1500
+2021/04/26 17:50:02  Available Balance 48500.0   Debit 2000.0
+2021/04/27 08:38:47  Available Balance 46500.0   Credit 25000.0
+2021/05/07 19:22:56  Available Balance 71500.0   Credit 5500.0

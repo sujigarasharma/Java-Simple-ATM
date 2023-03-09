@@ -1,0 +1,17 @@
+Account Number
+1112223334445
+CardNumber
+987654321321
+AccountType
+Current
+Account Holder Name
+Sharma K
+Account Balance
+3100.0
+PIN
+1212
+Transaction History
+2021/04/27 08:48:33  Available Balance 3100.0   Credit 4500.0
+2021/04/27 09:04:37  Available Balance 6500.0   Debit 5600.0
+2021/04/27 09:05:26  Available Balance 900.0   Credit 1100.0
+2021/04/27 09:11:35  Available Balance 2000.0   Credit 1100.0

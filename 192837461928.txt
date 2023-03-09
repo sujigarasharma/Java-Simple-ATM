@@ -1,0 +1,17 @@
+Account Number
+1002003004006
+CardNumber
+192837461928
+AccountType
+Savings
+Account Holder Name
+Brindhapriya B
+Account Balance
+15000.0
+PIN
+3434
+Transaction History
+2021/04/27 08:42:18  Available Balance 15000.0   Credit 15000.0
+2021/04/27 08:55:36  Available Balance 25000.0   Debit 11000.0
+2021/04/27 09:14:25  Available Balance 14000.0   Debit 4000.0
+2021/04/30 21:58:15  Available Balance 10000.0   Credit 5000.0

@@ -1,0 +1,16 @@
+Account Number
+1002003004007
+CardNumber
+998877665544
+AccountType
+Current
+Account Holder Name
+Varun S
+Account Balance
+101000.0
+PIN
+2233
+Transaction History
+2021/04/27 08:47:59  Available Balance 101000.0   Credit 7500.0
+2021/04/27 09:01:16  Available Balance 108500.0   Debit 18500.0
+2021/04/27 09:02:57  Available Balance 90000.0   Credit 11000.0
