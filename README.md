@@ -1,4 +1,4 @@
-# SimpleATM
+# Simple ATM - JAVA
 Basic ATM using JAVA
 
 The ATM Banking System is a banking application developed to perform different banking services through the Automated Teller Machines. The all functions include the regular transactions like cash deposits, cash withdrawals, balance enquiry, balance statements, savings account, and current account; change PIN Number, Credit card Withdrawals and so on. The application design maintains the information of the accounts of various customers including the information of the ATM cards, their types Credit cards, Debit Cards and the transactions done by the customers through the ATM machine centers with co- relation of the Banking Services.
